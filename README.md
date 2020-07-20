@@ -1,2 +1,2 @@
-# gibalab1
+# gitlab1
 this is my gitlab 1 repo
